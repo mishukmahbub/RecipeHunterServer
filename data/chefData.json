@@ -1,0 +1,341 @@
+[
+    {
+        "id": 1,
+        "chef_picture_url": "http://placebeard.it/640x480",
+        "chef_name": "Chef Ahmed",
+        "years_of_experience": 10,
+        "num_recipes": 4,
+        "num_likes": 10000,
+        "bio": "Chef Ahmed is a renowned Pakistani chef with over 10 years of experience in the culinary industry. He is known for his creative and innovative dishes that blend traditional Pakistani flavors with modern cooking techniques.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cooking_method": "1. Cook the rice and set aside. 2. Fry the chicken until browned. 3. Fry the onion until translucent. 4. Add tomatoes and spices and cook until the mixture thickens. 5. Layer the rice and chicken mixture and cook on low heat for 30 minutes.",
+                "ratings": 4.5
+            },
+            {
+                "id": 2,
+                "recipe_name": "Haleem",
+                "ingredients": [
+                    "Lamb",
+                    "Lentils",
+                    "Wheat",
+                    "Spices",
+                    "Ghee"
+                ],
+                "cooking_method": "1. Cook the lamb until tender. 2. Cook the lentils and wheat until soft. 3. Mix the lamb, lentils, and wheat together and add spices. 4. Cook on low heat for several hours until the mixture thickens. 5. Serve hot with ghee on top.",
+                "ratings": 4.7
+            },
+            {
+                "id": 3,
+                "recipe_name": "Nihari",
+                "ingredients": [
+                    "Beef",
+                    "Spices",
+                    "Flour",
+                    "Onion",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Cook the beef until tender. 2. Add spices and cook on low heat for several hours until the mixture thickens. 3. Mix flour with water to create a thick paste. 4. Add the paste to the beef mixture and cook for an additional hour. 5. Serve hot with onion and ginger on top.",
+                "ratings": 4.3
+            },
+            {
+                "id": 4,
+                "recipe_name": "Seekh Kabab",
+                "ingredients": [
+                    "Ground beef",
+                    "Onion",
+                    "Spices",
+                    "Coriander",
+                    "Mint"
+                ],
+                "cooking_method": "1. Mix ground beef with spices, onion, coriander, and mint. 2. Form the mixture into small sausages around skewers. 3. Grill or cook on a barbecue until browned on all sides. 4. Serve hot with mint chutney.",
+                "ratings": 4.8
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture_url": "http://placebeard.it/640x480",
+        "chef_name": "Chef Fatima",
+        "years_of_experience": 5,
+        "num_recipes": 3,
+        "num_likes": 5000,
+        "bio": "Chef Fatima is a rising star in the Pakistani culinary scene. With 5 years of experience, she has quickly made a name for herself with her delicious and authentic Pakistani recipes that are loved by foodies all over the world.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cooking_method": "1. Cook the rice and set aside. 2. Fry the chicken until browned. 3. Fry the onion until translucent. 4. Add tomatoes and spices and cook until the mixture thickens. 5. Layer the rice and chicken mixture and cook on low heat for 30 minutes.",
+                "ratings": 4.5
+            },
+            {
+                "id": 2,
+                "recipe_name": "Haleem",
+                "ingredients": [
+                    "Lamb",
+                    "Lentils",
+                    "Wheat",
+                    "Spices",
+                    "Ghee"
+                ],
+                "cooking_method": "1. Cook the lamb until tender. 2. Cook the lentils and wheat until soft. 3. Mix the lamb, lentils, and wheat together and add spices. 4. Cook on low heat for several hours until the mixture thickens. 5. Serve hot with ghee on top.",
+                "ratings": 4.7
+            },
+            {
+                "id": 3,
+                "recipe_name": "Nihari",
+                "ingredients": [
+                    "Beef",
+                    "Spices",
+                    "Flour",
+                    "Onion",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Cook the beef until tender. 2. Add spices and cook on low heat for several hours until the mixture thickens. 3. Mix flour with water to create a thick paste. 4. Add the paste to the beef mixture and cook for an additional hour. 5. Serve hot with onion and ginger on top.",
+                "ratings": 4.3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture_url": "http://placebeard.it/640x480",
+        "chef_name": "Chef Ali",
+        "years_of_experience": 12,
+        "num_recipes": 3,
+        "num_likes": 12000,
+        "bio": "Chef Ali is a highly skilled Pakistani chef with over 12 years of experience in the kitchen. He has a passion for creating bold and flavorful dishes that showcase the rich and diverse culinary heritage of Pakistan.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cooking_method": "1. Cook the rice and set aside. 2. Fry the chicken until browned. 3. Fry the onion until translucent. 4. Add tomatoes and spices and cook until the mixture thickens. 5. Layer the rice and chicken mixture and cook on low heat for 30 minutes.",
+                "ratings": 4.5
+            },
+            {
+                "id": 2,
+                "recipe_name": "Haleem",
+                "ingredients": [
+                    "Lamb",
+                    "Lentils",
+                    "Wheat",
+                    "Spices",
+                    "Ghee"
+                ],
+                "cooking_method": "1. Cook the lamb until tender. 2. Cook the lentils and wheat until soft. 3. Mix the lamb, lentils, and wheat together and add spices. 4. Cook on low heat for several hours until the mixture thickens. 5. Serve hot with ghee on top.",
+                "ratings": 4.7
+            },
+            {
+                "id": 3,
+                "recipe_name": "Nihari",
+                "ingredients": [
+                    "Beef",
+                    "Spices",
+                    "Flour",
+                    "Onion",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Cook the beef until tender. 2. Add spices and cook on low heat for several hours until the mixture thickens. 3. Mix flour with water to create a thick paste. 4. Add the paste to the beef mixture and cook for an additional hour. 5. Serve hot with onion and ginger on top.",
+                "ratings": 4.3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture_url": "http://placebeard.it/640x480",
+        "chef_name": "Chef Aisha",
+        "years_of_experience": 8,
+        "num_recipes": 4,
+        "num_likes": 8000,
+        "bio": "Chef Aisha is a talented Pakistani chef with a flair for creating delicious and visually stunning dishes. With 8 years of experience in the culinary industry, she has established herself as a force to be reckoned with.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cooking_method": "1. Cook the rice and set aside. 2. Fry the chicken until browned. 3. Fry the onion until translucent. 4. Add tomatoes and spices and cook until the mixture thickens. 5. Layer the rice and chicken mixture and cook on low heat for 30 minutes.",
+                "ratings": 4.5
+            },
+            {
+                "id": 2,
+                "recipe_name": "Haleem",
+                "ingredients": [
+                    "Lamb",
+                    "Lentils",
+                    "Wheat",
+                    "Spices",
+                    "Ghee"
+                ],
+                "cooking_method": "1. Cook the lamb until tender. 2. Cook the lentils and wheat until soft. 3. Mix the lamb, lentils, and wheat together and add spices. 4. Cook on low heat for several hours until the mixture thickens. 5. Serve hot with ghee on top.",
+                "ratings": 4.7
+            },
+            {
+                "id": 3,
+                "recipe_name": "Nihari",
+                "ingredients": [
+                    "Beef",
+                    "Spices",
+                    "Flour",
+                    "Onion",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Cook the beef until tender. 2. Add spices and cook on low heat for several hours until the mixture thickens. 3. Mix flour with water to create a thick paste. 4. Add the paste to the beef mixture and cook for an additional hour. 5. Serve hot with onion and ginger on top.",
+                "ratings": 4.3
+            },
+            {
+                "id": 4,
+                "recipe_name": "Seekh Kabab",
+                "ingredients": [
+                    "Ground beef",
+                    "Onion",
+                    "Spices",
+                    "Coriander",
+                    "Mint"
+                ],
+                "cooking_method": "1. Mix ground beef with spices, onion, coriander, and mint. 2. Form the mixture into small sausages around skewers. 3. Grill or cook on a barbecue until browned on all sides. 4. Serve hot with mint chutney.",
+                "ratings": 4.8
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture_url": "http://placebeard.it/640x480",
+        "chef_name": "Chef Imran",
+        "years_of_experience": 15,
+        "num_recipes": 3,
+        "num_likes": 15000,
+        "bio": "Chef Imran is a veteran Pakistani chef with over 15 years of experience in the kitchen. He has a passion for experimenting with new ingredients and techniques to create exciting and innovative dishes that keep diners coming back for more.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cooking_method": "1. Cook the rice and set aside. 2. Fry the chicken until browned. 3. Fry the onion until translucent. 4. Add tomatoes and spices and cook until the mixture thickens. 5. Layer the rice and chicken mixture and cook on low heat for 30 minutes.",
+                "ratings": 4.5
+            },
+            {
+                "id": 2,
+                "recipe_name": "Haleem",
+                "ingredients": [
+                    "Lamb",
+                    "Lentils",
+                    "Wheat",
+                    "Spices",
+                    "Ghee"
+                ],
+                "cooking_method": "1. Cook the lamb until tender. 2. Cook the lentils and wheat until soft. 3. Mix the lamb, lentils, and wheat together and add spices. 4. Cook on low heat for several hours until the mixture thickens. 5. Serve hot with ghee on top.",
+                "ratings": 4.7
+            },
+            {
+                "id": 3,
+                "recipe_name": "Nihari",
+                "ingredients": [
+                    "Beef",
+                    "Spices",
+                    "Flour",
+                    "Onion",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Cook the beef until tender. 2. Add spices and cook on low heat for several hours until the mixture thickens. 3. Mix flour with water to create a thick paste. 4. Add the paste to the beef mixture and cook for an additional hour. 5. Serve hot with onion and ginger on top.",
+                "ratings": 4.3
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture_url": "http://placebeard.it/640x480",
+        "chef_name": "Chef Samina",
+        "years_of_experience": 6,
+        "num_recipes": 4,
+        "num_likes": 3000,
+        "bio": "Chef Samina is a talented Pakistani chef with a unique perspective on traditional Pakistani cuisine. With 6 years of experience in the culinary industry, she has developed a reputation for her creative and delicious dishes that showcase the vibrant flavors of Pakistan.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cooking_method": "1. Cook the rice and set aside. 2. Fry the chicken until browned. 3. Fry the onion until translucent. 4. Add tomatoes and spices and cook until the mixture thickens. 5. Layer the rice and chicken mixture and cook on low heat for 30 minutes.",
+                "ratings": 4.5
+            },
+            {
+                "id": 2,
+                "recipe_name": "Haleem",
+                "ingredients": [
+                    "Lamb",
+                    "Lentils",
+                    "Wheat",
+                    "Spices",
+                    "Ghee"
+                ],
+                "cooking_method": "1. Cook the lamb until tender. 2. Cook the lentils and wheat until soft. 3. Mix the lamb, lentils, and wheat together and add spices. 4. Cook on low heat for several hours until the mixture thickens. 5. Serve hot with ghee on top.",
+                "ratings": 4.7
+            },
+            {
+                "id": 3,
+                "recipe_name": "Nihari",
+                "ingredients": [
+                    "Beef",
+                    "Spices",
+                    "Flour",
+                    "Onion",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Cook the beef until tender. 2. Add spices and cook on low heat for several hours until the mixture thickens. 3. Mix flour with water to create a thick paste. 4. Add the paste to the beef mixture and cook for an additional hour. 5. Serve hot with onion and ginger on top.",
+                "ratings": 4.3
+            },
+            {
+                "id": 4,
+                "recipe_name": "Seekh Kabab",
+                "ingredients": [
+                    "Ground beef",
+                    "Onion",
+                    "Spices",
+                    "Coriander",
+                    "Mint"
+                ],
+                "cooking_method": "1. Mix ground beef with spices, onion, coriander, and mint. 2. Form the mixture into small sausages around skewers. 3. Grill or cook on a barbecue until browned on all sides. 4. Serve hot with mint chutney.",
+                "ratings": 4.8
+            }
+        ]
+    }
+]
