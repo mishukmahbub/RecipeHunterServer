@@ -7,7 +7,7 @@ const chefData = require('./data/chefData.json')
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('Hello World again 2!')
+    res.send('chefData server is running!')
 })
 
 app.get('/chefData', (req, res) => {
@@ -15,5 +15,5 @@ app.get('/chefData', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port} again and again`)
+    console.log(`chefData server is listening on port ${port}`)
 })
